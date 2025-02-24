@@ -1,5 +1,6 @@
 //Daniel Braun Sandino
-//Ejercicio recursividad - Calcular el factorial 
+//Hoja 1 - Ejercicio 1 - Recursividad
+//Calcular la suma de los numeros anteriores al dado (Factorial)
 #include <iostream>
 
 using namespace std;
